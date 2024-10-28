@@ -39,4 +39,5 @@ Một ứng dụng todo đơn giản giúp người dùng quản lý công việ
 ### Dự Án Flutter
 1. **Clone dự án Flutter**:
    ```bash
-   git clone https://github.com/yourusername/flutter_event_app.git
+   git clone "https://github.com/vhing004/24K1-7080325-01"
+   
